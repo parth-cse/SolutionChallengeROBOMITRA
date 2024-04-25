@@ -26,3 +26,4 @@ while True:
             # - Displaying a greeting message on the robot's screen
             # - Sending a notification to the user interface
             # - Initiating a conversation with the identified person
+# I 
